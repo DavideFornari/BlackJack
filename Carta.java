@@ -1,3 +1,8 @@
+/**
+ * Classe Carta
+ * 
+ * Oggetto che simula la carta con tutte le caratteristiche proprie e del gioco (valore specifico)
+ */
 public class Carta {
     private int n;
     private int value;
@@ -12,6 +17,7 @@ public class Carta {
      * value è il valore della carta nel gioco seme è il seme della carta (0 = picche, 
      * 1 = cuori, 2 = fiori, 3 = quadri)
      * 
+     * @param num -> da 0 a 51 identificatore della carta nel mazzo
      */
     Carta(int num) {
         n = num;

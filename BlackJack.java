@@ -4,6 +4,11 @@ import java.io.FileReader;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 
+/**
+ * Classe BlackJack
+ * 
+ * contentente il main()
+ */
 public class BlackJack {
     
     public static void main(String args[]) throws FileNotFoundException, IOException{

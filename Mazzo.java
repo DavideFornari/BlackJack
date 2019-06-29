@@ -1,5 +1,9 @@
 import java.util.Random;
-
+/**
+ * Classe Mazzo
+ * 
+ * Simula il mazzo della partita
+ */
 public class Mazzo {
     private int numero;
     private Carta[] cards;

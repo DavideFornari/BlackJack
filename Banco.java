@@ -1,3 +1,8 @@
+/**
+ * Classe Banco
+ * 
+ * Simula il banco stesso del gioco
+ */
 public class Banco {
     private Carta[] cards = new Carta[10];
     private int numero = 0;

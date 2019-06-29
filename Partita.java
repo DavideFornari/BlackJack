@@ -1,5 +1,10 @@
 import java.util.*;
 
+/**
+ * Classe Parita
+ * 
+ * Contiene tutti i metodi necessari per l'evoluzione del gioco interno alla classe
+ */
 public class Partita {
     private Mazzo mazzo;
     private int Ngiocatori;

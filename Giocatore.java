@@ -1,5 +1,14 @@
 import java.util.*;
 
+/**
+ * Classe Giocatore
+ * 
+ * Simula il giocatore con tutte le caratteristiche:
+ *  - mani di gioco
+ *  - budget
+ *  - nome
+ *  - volonta' di continuare a giocare
+ */
 public class Giocatore {
     private int n_mani;
     private long portafoglio;

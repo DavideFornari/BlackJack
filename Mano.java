@@ -1,3 +1,8 @@
+/**
+ * Classe Mano
+ * 
+ * Cio' che il giocatore effettivamente modifica con le sue strategie
+ */
 public class Mano {
     private int numero;
     private static final int NCARTEMANO = 10;
