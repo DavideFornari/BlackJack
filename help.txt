@@ -1,0 +1,12 @@
+Regole base del BlackJack  : 
+I giocatori giocano individualmente contro il banco, e lo scopo del gioco e' superare il punteggio del banco senza superare il valore di 21.
+I valori delle carte sono per l'asso 11 o 1, per le figure 10, per le altre figure il loro numero
+
+Regole di gioco e procedimento
+Come prima cosa i giocatori effettuano la propria puntata, poi il banco assegna ad ogni giocatore due carte e a se' stesso una sola.
+Se un giocatore ottiene come prime due carte un asso e una figura (o un 10) ed effettua 21 ha diritto all'immediato pagamento della sua puntata a 1.5.
+Poi il banco chiede ad ogni giocatore come vuole giocare, il giocatore puo' chiedere una carta (hit), raddoppiare la puntata impegnandosi a chiedere
+una sola carta (double down) oppure se riceve due carte dello stesso valore puo' scegliere di dividerle e puntare su entrambe la stessa somma di partenza,
+chiedere una carta su entrambe e giocare su di esse in maniera indipendente.
+Se un giocatore supera 21 e sballa perde tutta la sua puntata.
+Quando tutti i giocatori hanno definito le loro giocate il banco estrae carte dal mazzo fino a che non supera 17 come suo punteggio.
