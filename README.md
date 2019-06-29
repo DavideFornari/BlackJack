@@ -17,3 +17,11 @@ Strutturato in più sotto classi:
   - Banco, oggetto che simula il banco del BlackJack
   - Partita, che permette al gioco di svolgersi e contiene tutti i metodi per le mosse che può eseguire il giocatore
   - BlackJack, classe contenente il main
+
+Il programma permette all'utente di:
+  - Scegliere quanti giocatori giocheranno
+  - Numero di mazzi da utilizzare
+  - Ogni giocatore sceglie il proprio nome, tipo di conteggio per le carte e budget iniziale
+  - Ad ogni turno inizialmente il giocatore scelglie quanto puntare e poi compie la sua strategia tramite le mosse consentite in base alla configurazione della partita
+  
+Il programma termina quando tutti i giocatori o hanno perso tutti i loro soldi o hanno scelto di smettere di giocare
