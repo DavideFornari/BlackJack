@@ -93,7 +93,7 @@ public class Partita {
    
         // gestire vittoria
         if (banco.isOver()) {
-                 vincita(0);
+                vincita(0);
         } else      {   
             vincita(banco.getValue());
         }     
@@ -148,7 +148,7 @@ public class Partita {
      * 
      * @param i numero del giocatore
      */
-                   private void play(int i) {
+    private void play(int i) {
     
         int a = 2;
 

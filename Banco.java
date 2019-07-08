@@ -4,7 +4,7 @@
  * Simula il banco stesso del gioco
  */
 public class Banco {
-    private Carta[] cards = new Carta[10];
+    private Carta[] cards = new Carta[11];
     private int numero = 0;
     private int value = 0;
     private boolean over = false;

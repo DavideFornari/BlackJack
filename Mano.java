@@ -5,7 +5,7 @@
  */
 public class Mano {
     private int numero;
-    private static final int NCARTEMANO = 10;
+    private static final int NCARTEMANO = 11;
     private Carta[] cards = new Carta[NCARTEMANO];
     private long puntata;
     private boolean modificable;
