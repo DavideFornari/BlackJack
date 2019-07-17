@@ -40,13 +40,6 @@ public class Carta {
             seme = 3;
     }
 
-    Carta() {
-        n = 0;
-        numero = 0;
-        value = 0;
-        seme = 0;
-    }
-
     /**
      * @return the n
      */

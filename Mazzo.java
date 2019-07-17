@@ -28,7 +28,7 @@ public class Mazzo {
     }
 
     public void mix() {
-        Carta s = new Carta();
+        Carta s = null;
         int a;
         Random rand = new Random();
 
